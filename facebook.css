@@ -1,0 +1,153 @@
+body{
+    margin: 0px;
+}
+.header{
+    width: 100%;
+    background: #3b5998;
+    height: 90px;
+    
+}
+.logo{
+    width: 50%;
+    padding-top: 31px;
+    padding-left: 137px;
+    
+    
+}
+.login{
+    width: 50%;
+    float: right;
+    
+    
+}
+.logotext{
+    color: white;
+    text-decoration: none;
+    font-size: 41px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.logincontrols{
+    margin-top: -73px;
+    margin-left: 203px;
+}
+.white{
+    color: white;
+}
+.blue{
+    color: white;
+    background: #365899;
+    height: 25px;
+    border-color: #4672c6;
+}
+.grey{
+    color: rgb(136, 166, 249);
+    
+    
+}
+.sf{
+    padding-left: 20px;
+    padding-top: 30px;
+    float: left;
+}
+.sftext{
+    color: #073384;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-left: 116px;
+    padding-top: 5px;
+}
+.ss{
+    float: left;
+    padding-left: 283px;
+    padding-top: -40px;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: sans-serif;
+
+}
+.img{
+    padding-left: 117px;
+}
+.linearcolor{
+    background: linear-gradient(white,#D3D8ED);
+    height: 600px;
+    width: 100%;
+}
+.name{
+
+}
+.a{
+    height: 32px;
+    width: 211px;
+    border-radius: 5px;
+    font-size: 18px;
+    border-color: #D3D8ED;
+}
+.b{
+    height: 32px;
+    width: 211px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-left: -224px;
+    border-color: #D3D8ED;
+}
+
+
+.c{
+    height: 32px;
+    width: 441px;
+    border-radius: 5px;
+    font-size: 18px;
+    border-color: #D3D8ED;
+}
+
+
+.d{
+    height: 32px;
+    width: 441px;
+    border-radius: 5px;
+    font-size: 18px;
+    border-color: #D3D8ED;
+}
+.birthday{
+    color: #767d88;
+}
+.date{
+    border-color: rgb(163 176 190);
+    height: 31px;
+    border-radius: 5px;
+
+}
+.month{
+    border-color: rgb(163 176 190);
+    height: 31px;
+    border-radius: 5px;
+}
+.year{
+    border-color: rgb(163 176 190);
+    height: 31px;
+    border-radius: 5px;
+}
+.gender{
+    color: #767d88;
+}
+.radio{
+    color: rgb(74, 70, 70);
+}
+.policy{
+    font-size: 11px;
+    font-family: sans-serif;
+    color: grey;
+}
+.end{
+    background: rgb(81, 112, 81);
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: sans-serif;
+    width: 191px;
+    height: 43px;
+    border-radius: 10px;
+}
